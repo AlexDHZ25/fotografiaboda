@@ -1,0 +1,22 @@
+{
+    "es": {
+        "nav_home": "Inicio",
+        "nav_gallery": "Galería",
+        "nav_contact": "Contacto",
+        "hero_title": "Historias Atemporales",
+        "hero_subtitle": "Fotografía & Cine de Boda",
+        "about_title": "La Filosofía",
+        "about_text": "Capturando la honestidad de los momentos, la luz natural y la elegancia de lo espontáneo.",
+        "footer": "© 2026 Tu Nombre Studio. Todos los derechos reservados."
+    },
+    "en": {
+        "nav_home": "Home",
+        "nav_gallery": "Gallery",
+        "nav_contact": "Contact",
+        "hero_title": "Timeless Stories",
+        "hero_subtitle": "Wedding Photography & Film",
+        "about_title": "The Philosophy",
+        "about_text": "Capturing the honesty of moments, natural light, and the elegance of the spontaneous.",
+        "footer": "© 2026 Your Name Studio. All rights reserved."
+    }
+}
